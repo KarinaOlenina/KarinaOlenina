@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KarinaOlenina
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning JavaScript
+- 📫 Mail me on ${soon}
