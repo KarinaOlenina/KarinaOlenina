@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karinaolenina&label=Profile%20views&color=0e75b6&style=flat" alt="karinaolenina" /> </p>
 
-- 🔭 I’m currently working on **myself**
-
 - 🌱 I’m currently learning **Node.js**
 
 <h3 align="left">Connect with me:</h3>
